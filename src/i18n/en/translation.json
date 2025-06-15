@@ -1,0 +1,116 @@
+{
+  "home": "Home",
+  "about": "About",
+  "about_title": "Your Trusted Dental Care Provide",
+  "about_subtitle": "Dr. Sheban is a skilled and compassionate dentist offering comprehensive and personalized dental care using the latest technology. At Dr. Sheban's Dental Clinic, we prioritize patient comfort and satisfaction, providing a wide range of services from preventive care to advanced treatments. Our welcoming environment and dedicated team ensure each patient receives individualized attention, helping them achieve optimal oral health and a beautiful smile.",
+  "our_achievements": "Our Achievements",
+  "awards_associations": "Awards & Associations",
+  "services": "Services",
+  "contact": "Contact",
+  "read_more": "Read More",
+  "English": "English",
+  "Kurdish": "Kurdish",
+  "Arabic": "Arabic",
+  "our_works": "Our Works",
+  "our_works_subtitle": "Showcasing our commitment to excellence through successful treatments and satisfied smiles",
+
+  "smile_makeover": "Smile Makeover",
+  "smile_makeover_subtitle": "Transforming smiles with cosmetic dentistry",
+  "restorative_tentistry": "Restorative Dentistry",
+  "restorative_tentistry_subtitle": "Rebuilding damaged teeth for a healthy smile.",
+  "orthodontic_success": "Orthodontic Success",
+  "orthodontic_success_subtitle": "Achieving alignment and perfection with braces and aligners.",
+  "dental_implants": "Dental Implants",
+  "dental_implants_subtitle": "Providing secure and natural-looking tooth replacements.",
+  "schedule_your_appointment": "Schedule Your Appointment",
+  "schedule_your_appointment_Subtitle": "Choose a convenient time for your visit and receive personalized care.",
+  "your_request_was_successful":"Your request was successful!",
+  "try_again":"An error occurred, please try again!",
+  "get_appointment":"Get Appointment",
+  
+  "name": "Name",
+  "name_placeholder": "Your name...",
+  "email": "Email",
+  "email_placeholder": "Your Email...",
+  "select_service": "Select Service",
+  "your_message": "Your Message...",
+  "submit": "Submit",
+  "phone": "Phone Number",
+  "address": "Address",
+  "address_subtitle": "Erbil-40 meter street-brayati street-near aya market",
+  "open_hours":"Open Hours",
+  "open_hours_subtitle":"Saturday - Thursday: 01:00 PM - 10:00 PM",
+
+  "types_of_procedures": "Types of Procedures",
+
+  "prices": "Prices",
+  "pricing_Plans":"Pricing & Plans for Teeth Whitening",
+  "oral_consultation":"Oral Consultation (Includes Full Mouth X-Ray & Treatment Plan)",
+  "exam_cleaning":"Exam & Cleaning (Includes Full Mouth Cleaning)",
+  "white_filling":"White Filling (Includes One Composite Filling)",
+  "laser_teeth":"Laser Teeth Whitening (Minimally Invasive Technology)",
+
+  "free":"Free",
+
+
+
+
+
+  "our_services": "Our Services",
+  "our_services_subtitle": "We provide comprehensive dental services, including preventive care, restorative treatments, and cosmetic procedures. Our skilled team uses advanced technology to deliver high-quality, personalized care in a comfortable setting",
+  "comprehensive_dental_check_ups":"Comprehensive Dental Check-Ups",
+  "comprehensive_dental_check_ups_subtitle":"Detailed examinations and diagnostics to assess and maintain your oral health, including screenings for cavities, gum disease, and other dental issues.",
+  
+  "routine_cleanings":"Routine Cleanings",
+  "routine_cleanings_subtitle":"Essential for maintaining oral hygiene and preventing dental issues",
+
+  "oral_examinations":"Oral Examinations",
+  "oral_examinations_subtitle":"Comprehensive evaluations to detect cavities, gum disease, and other concerns",
+
+  "x_ray_diagnostics":"X-Ray Diagnostics",
+  "x_ray_diagnostics_subtitle":"Detailed imaging to uncover hidden dental issues beneath the surface.",
+
+  "oral_cancer_screenings":"Oral Cancer Screenings",
+  "oral_cancer_screenings_subtitle":"Early detection and assessment for oral cancer signs and symptoms.",
+
+
+
+  "advanced_dental_treatments":"Advanced Dental Treatments",
+  "advanced_dental_treatments_subtitle":"Offering state-of-the-art procedures, including fillings, root canals, and cosmetic enhancements, to restore and beautify your smile with precision and care.",
+  "patient_centered_care":"Patient-Centered Care",
+  "patient_centered_care_subtitle":"Providing personalized dental services in a comfortable, friendly environment, with a focus on patient comfort and satisfaction throughout your treatment journey.",
+  "orthodontic_care":"Orthodontic Care",
+  "orthodontic_care_subtitle":"Experience the transformative power of a perfect smile. Our gentle and effective orthodontic treatments are tailored to your unique needs, delivering stunning results that boost your confidence and overall well-being.",
+
+  "expert_care":"Expert Care",
+  "expert_care_subtitle":"Our team of highly skilled and experienced dental professionals is dedicated to providing top-quality care tailored to your individual needs.",
+  "state_of_the_art_facilities":"State-of-the-Art Facilities",
+  "state_of_the_art_facilities_subtitle":"We use the latest technology and modern equipment to ensure precise diagnostics and effective treatments, all in a comfortable and welcoming environment.",
+  "comprehensive_services":"Comprehensive Services",
+  "comprehensive_services_subtitle":"From routine check-ups and cleanings to advanced procedures and cosmetic enhancements, we offer a full range of dental services to meet all your oral health needs.",
+  "patient_centered_approach":"Patient-Centered Approach",
+  "patient_centered_approach_subtitle":"We prioritize your comfort and convenience, offering flexible appointment scheduling, personalized treatment plans, and compassionate care every step of the way.",
+
+
+
+  "About Us": "About Us",
+  "contact_us": "Contact Us",
+  "contact_us_subtitle": "We’re here to assist you! Whether you have questions, need to schedule an appointment, or want to provide feedback, feel free to reach out to us via phone, email, or our convenient online form. Your satisfaction is our priority.",
+
+  "why_choose_us": "Why Choose Us",
+  "location": "Location",
+  "location_subtitle": "Located at Erbil-40 meter street-brayati street-near Aya Market, we’re easy to find and accessible for all your dental needs. Drop by and experience our exceptional care in a welcoming environment",
+  "page_not_found": "Page Not Found",
+  "back_to_home": "Back To Home",
+  "years_of_experience": "Years Of Experience",
+  "cavities_fixed": "Cavities Fixed",
+  "well_smile_faces":"Well Smile Faces",
+  "awards_held":"Awards Held",
+  "our_mission":"Our Mission",
+  "our_mission_subtitle":"Our mission is to deliver top-quality dental care with a focus on patient comfort and satisfaction. We use advanced technology and personalized treatment plans to ensure excellent oral health. Your smile is our priority, and we are committed to making every visit a positive experience.",
+  "our_vision":"Our Vision",
+  "our_vision_subtitle":"Our vision is to be a leading dental practice in Erbil, known for our commitment to patient care and cutting-edge treatments. We aim to create a welcoming environment where every patient feels valued and receives the best possible dental care. Our goal is to continuously innovate and set new standards in dental excellence.",
+  "Awards":"awards"
+
+
+}
