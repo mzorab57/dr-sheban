@@ -19,10 +19,10 @@ const Contact = () => {
     },
     {
       title: t("email"),
-      description: "shebanfarhad90@gmail.com",
+      description: "sheban500@gmail.com",
       icon: <MdEmail className="text-white" />,
       animation: { "data-aos": "fade-left", "data-aos-duration": "1000" },
-      link: "mailto:shebanfarhad90@gmail.com",
+      link: "mailto:sheban500@gmail.com",
     },
     {
       title: t("address"),
